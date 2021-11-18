@@ -1,7 +1,7 @@
 # dataStructures-algorithms
 Contains the code for various Alrogithms and DataStructures
 
-## ALgorithms:
+## Algorithms:
   - Sorting Algorithms:
       - Selection Sort
       - Bubble Sort
